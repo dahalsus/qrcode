@@ -1,0 +1,38 @@
+.rate{
+	width:228px; height: 40px;
+	margin:60px auto;
+	margin-bottom:0px;
+}
+.rate .rate-btn{
+	width: 45px; height:40px;
+	float: left;
+	background: url(rate-btn.png) no-repeat;
+	cursor: pointer;
+}
+.rate .rate-btn:hover, .rate  .rate-btn-hover, .rate  .rate-btn-active{
+	background: url(rate-btn-hover.png) no-repeat;
+}
+
+.result-container{
+	width: 82px; height: 18px;
+	position: relative;
+	background-color: #ccc;
+	border: #ccc 1px solid;
+	margin:auto;
+}
+.rate-stars{
+	width: 82px; height: 18px;
+	background: url(rate-stars.png) no-repeat;
+	position: absolute;
+}
+.rate-bg{
+	height: 18px;
+	background-color: #ffbe10;
+	position: absolute;
+}
+
+
+
+
+
+
